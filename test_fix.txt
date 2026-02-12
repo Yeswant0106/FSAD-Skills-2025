@@ -1,6 +1,0 @@
-Git repository structure fix completed.
-Removed inner .git folders from:
-- Skill-01-Git
-- Skill-04-Spring-DI
-
-All skills are now normal folders in the main repository.
