@@ -3,7 +3,7 @@
   <classpathentry kind="src" path="src/main/java" including="**/*.java"/>
   <classpathentry kind="src" path="src/main/resources" excluding="**/*.java|**/application*.yml|**/application*.yaml|**/application*.properties"/>
   <classpathentry kind="output" path="target/classes"/>
-  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-24"/>
   <classpathentry kind="var" path="M2_REPO/org/springframework/boot/spring-boot-starter-web/3.2.0/spring-boot-starter-web-3.2.0.jar"/>
   <classpathentry kind="var" path="M2_REPO/org/springframework/boot/spring-boot-starter/3.2.0/spring-boot-starter-3.2.0.jar"/>
   <classpathentry kind="var" path="M2_REPO/org/springframework/boot/spring-boot/3.2.0/spring-boot-3.2.0.jar"/>
