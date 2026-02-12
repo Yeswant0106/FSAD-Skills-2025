@@ -6,9 +6,9 @@ import org.springframework.stereotype.Component;
 @Component
 public class StudentConstructor {
 
-    private int id = 30418;
-    private String name = "Yeswanth";
-    private String gender = "Male";
+    private final int id = 30418;
+    private final String name = "Yeswanth";
+    private final String gender = "Male";
 
     private Certification certification;
 
